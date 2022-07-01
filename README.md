@@ -1,3 +1,3 @@
 # portfolio
-portfolio model
-the portfolio at 'index.html' page
+portfolio model<br>
+Portfolio design  at 'index.html' page
